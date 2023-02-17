@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PieroD04
-- 👀 I’m interested in videogames like Dead by Daylight :D
+- 👀 I’m interested in videogames like Dead by Daylight and Minecraft :D
 - 🌱 I’m currently learning Object-Oriented Programming in the UPC
 - 📫 How to reach me:
   Discord: SirCactuz#7880 / Via email: pierod0411@gmail.com
