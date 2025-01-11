@@ -1,47 +1,47 @@
-# 💻 Bienvenido a mi GitHub 👨‍💻
+# 💻 Welcome to my GitHub 👨‍💻
 
-Soy estudiante de **Ingeniería de Software** en la Universidad Peruana de Ciencias Aplicadas (UPC), actualmente cursando el 7mo ciclo y formando parte del décimo superior gracias a mi desempeño académico destacado. Este espacio está dedicado a compartir mi crecimiento profesional y mis proyectos, enfocados en el desarrollo y optimización de software.
+I am a **Software Engineering** student at Universidad Peruana de Ciencias Aplicadas (UPC), currently in my 7th semester and part of the top 10% of my class due to my outstanding academic performance. This space showcases my professional growth and projects focused on software development and optimization.
 
-## 🔧 Sobre mí
-- 🖥️ Apasionado por crear soluciones tecnológicas efectivas, aplicando principios de diseño y desarrollo de software.
-- 🤝 Disfruto trabajar en equipos colaborativos utilizando metodologías ágiles como **Scrum** y **Gitflow**.
-- 🚀 Siempre busco aprender nuevas tecnologías y mejorar mis habilidades.
+## 🔧 About Me
+- 🖥️ Passionate about creating effective technological solutions by applying software design and development principles.  
+- 🤝 Enjoy working in collaborative teams using agile methodologies such as **Scrum** and **Gitflow**.  
+- 🚀 Always eager to learn new technologies and improve my skills.  
 
-## 💻 Habilidades Técnicas
+## 💻 Technical Skills
 
-### Lenguajes de Programación
-- C++, C#, Java, Python, Dart, Kotlin
+### Programming Languages
+- C++, C#, Java, Python, Dart, Kotlin  
 
-### Bases de Datos
-- MySQL: diseño, modelado y gestión de bases relacionales.
+### Databases
+- MySQL: design, modeling, and relational database management.  
 
-### Frameworks y Herramientas
-- **Spring Boot** para desarrollo backend robusto.
-- **Jetpack Compose** para aplicaciones móviles en Kotlin.
+### Frameworks and Tools
+- **Spring Boot** for robust backend development.  
+- **Jetpack Compose** for mobile application development with Kotlin.  
 
-### Metodologías de Trabajo
-- **Scrum** y **Gitflow** aplicados en el desarrollo colaborativo de proyectos.
+### Work Methodologies
+- **Scrum** and **Gitflow** applied in collaborative project development.  
 
-## 📚 Proyectos Destacados
-### AgroConnect
-Sistema web para la gestión de granjas de cuyes que permite el manejo de gastos, recursos y programación de asesorías con expertos.  
+## 📚 Highlighted Projects  
+### AgroConnect  
+A web-based system for managing guinea pig farms that supports expense tracking, resource management, and scheduling expert consultations.  
 - **Backend:** Spring Boot  
 - **Frontend:** Angular  
-- **Base de datos:** MySQL  
+- **Database:** MySQL  
 
-### AgroSupport
-Aplicación móvil para conectar agricultores y ganaderos con asesores expertos, facilitando la programación de consultas, personalización de perfiles y gestión de historial.  
+### AgroSupport  
+A mobile application that connects farmers and ranchers with expert advisors, facilitating consultation scheduling, profile customization, and history management.  
 - **Backend:** Spring Boot  
-- **Frontend móvil:** Kotlin con Jetpack Compose  
-- **Base de datos:** MySQL  
+- **Mobile Frontend:** Kotlin with Jetpack Compose  
+- **Database:** MySQL  
 
-## 🌟 Intereses
-- Desarrollo web
-- Desarrollo de aplicaciones móviles
-- Diseño de bases de datos
-- Análisis de datos
+## 🌟 Interests
+- Web Development  
+- Mobile Application Development  
+- Database Design  
+- Data Analysis  
 
-## 🤝 Conéctate conmigo
-📧 Correo: pierod0411@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/piero-delgado/
-🌐 Portafolio: [proximamente]  
+## 🤝 Connect With Me
+📧 Email: pierod0411@gmail.com  
+🔗 LinkedIn: [https://www.linkedin.com/in/piero-delgado/](https://www.linkedin.com/in/piero-delgado/)  
+🌐 Portfolio: [Coming Soon]  
