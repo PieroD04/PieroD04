@@ -16,7 +16,8 @@ I am a **Software Engineering** student at Universidad Peruana de Ciencias Aplic
 - MySQL: design, modeling, and relational database management.  
 
 ### Frameworks and Tools
-- **Spring Boot** for robust backend development.  
+- **Spring Boot** for robust backend development.
+- **Angular** and **Vue.js** for creating dynamic, responsive web applications.
 - **Jetpack Compose** for mobile application development with Kotlin.  
 
 ### Work Methodologies
