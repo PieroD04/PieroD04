@@ -45,4 +45,4 @@ A mobile application that connects farmers and ranchers with expert advisors, fa
 ## 🤝 Connect With Me
 📧 Email: pierod0411@gmail.com  
 🔗 LinkedIn: [https://www.linkedin.com/in/piero-delgado/](https://www.linkedin.com/in/piero-delgado/)  
-🌐 Portfolio: [Coming Soon]  
+🌐 Portfolio: [Website](https://pierodelgado.netlify.app) 
